@@ -4,4 +4,4 @@
 Put you token in the variable "token" in bot.py and run it.
 
 ## Official bot
-This bot is running in Discord 24/7 in a official "instance": [@apicordbot](https://t.me/apicordbot)
+This bot is running 24/7 in a official "instance": [@apicordbot](https://t.me/apicordbot)
